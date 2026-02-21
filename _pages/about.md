@@ -49,21 +49,21 @@ I am always open to collaborations. If you share similar interests, please feel 
 </div>
 </div>
 
-- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Structured Prototype-Guided Adaptation for EEG Foundation Models](https://arxiv.org/abs/2602.17251)
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Structured Prototype-Guided Adaptation for EEG Foundation Models](https://arxiv.org/abs/2602.17251)<br>
   ***Jingying Ma***‡, Feng Wu‡, Yucheng Xing, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Development and Validation of a Dynamic Kidney Failure Prediction Model based on Deep Learning: A Real-World Study with External Validation](https://arxiv.org/abs/2501.16388) [![](https://img.shields.io/badge/KFDeep-blue?logo=github)](https://github.com/PKUDigitalHealth/KFDeep)<br>
   ***Jingying Ma***‡, Jinwei Wang‡, Lanlan Lu, Yexiang Sun, Mengling Feng, Peng Shen, Zhiqin Jiang, Shenda Hong, Luxia Zhang
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ESWA</span> [Signal Quality Index for the fetal heart rates: Development and improvements for fetal monitoring](https://www.sciencedirect.com/science/article/pii/S095741742202262X) [![](https://img.shields.io/badge/FSQI-blue?logo=github)](https://github.com/jingyingma01/FSQI)<br>
   Jingyu Wang‡, ***Jingying Ma***‡, Shenda Hong, Chi Zhang, Jianliu Wang, Linyan Zhang, Xinran Liu, Rui Bai, Xiaosong Dong, Guoli Liu, Fang Han
-- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Nature Health</span> [Artificial intelligence for public health can harness data for healthier populations](https://www.nature.com/articles/s44360-025-00005-w)
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Nature Health</span> [Artificial intelligence for public health can harness data for healthier populations](https://www.nature.com/articles/s44360-025-00005-w)<br>
   Mengling Feng, Swapnil Mishra, ***Jingying Ma***, Seth Flaxman, Samir Bhatt, Josip Car, Li Yang Hsu, Tien Yin Wong
-- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Information Fusion</span>[Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Information Fusion</span>[Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S1566253524005736)<br>
   Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, ***Jingying Ma***, Kai He, Zhen Peng, Erik Cambria, Mengling Feng
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ACL 2025</span> [Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2501.18119)&nbsp;[![](https://img.shields.io/badge/SSQR-blue?logo=github)](https://github.com/DeepReasoning/SSQR)<br>
   Qika Lin, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, ***Jingying Ma***, Mengling Feng
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">npj Women's Health</span> [Deep learning with information fusion and model interpretation for long-term prenatal fetal heart rate data](https://www.nature.com/articles/s44294-024-00033-z) [![](https://img.shields.io/badge/LARA--FHR-blue?logo=github)](https://github.com/goodboy-hub/LARA-FHR)<br>
   Zenghui Lin, Xintong Liu, Nan Wang, Ruichen Li, Qingao Liu, ***Jingying Ma***, Liwei Wang, Yan Wang, Shenda Hong
-- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Language modeling on tabular data: A survey of foundations, techniques and evolution](https://arxiv.org/abs/2408.10548)
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Language modeling on tabular data: A survey of foundations, techniques and evolution](https://arxiv.org/abs/2408.10548)<br>
   Yucheng Ruan, Xiang Lan, ***Jingying Ma***, Yizhi Dong, Kai He, Mengling Feng
 
 
