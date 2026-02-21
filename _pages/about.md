@@ -17,42 +17,81 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🐎 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm Ma Jingying (马婧颖), a second-year PhD student at National University of Singapore (NUS), supervised by [Prof. Mornin Feng](https://www.mornin-feng.com/). My current research focuses on medical time-series modeling and brain foundation models.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I am always open to collaborations. If you share similar interests, please feel free to reach out via email.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+‡: Co-First Authors
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CodeBrain.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110)\\
+***Jingying Ma***‡, Feng Wu‡, Qika Lin, Yucheng Xing, Chenyu Liu, Ziyu Jia, Mengling Feng
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)<br>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ST-USleepNet.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ST-USleepNet: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging](https://www.ijcai.org/proceedings/2025/466)\\
+***Jingying Ma***, Qika Lin, Ziyu Jia, Mengling Feng
+
+[![](https://img.shields.io/badge/ST--USleepNet-blue?logo=github)](https://github.com/jingyingma01/ST-USleepNet)<br>
+
+</div>
+</div>
+
+- ``Preprint`` [Structured Prototype-Guided Adaptation for EEG Foundation Models](https://arxiv.org/abs/2602.17251)
+  ***Jingying Ma***‡, Feng Wu‡, Yucheng Xing, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng
+- ``Preprint`` [Development and Validation of a Dynamic Kidney Failure Prediction Model based on Deep Learning: A Real-World Study with External Validation](https://arxiv.org/abs/2501.16388) [![](https://img.shields.io/badge/KFDeep-blue?logo=github)](https://github.com/PKUDigitalHealth/KFDeep)<br>
+  ***Jingying Ma***‡, Jinwei Wang‡, Lanlan Lu, Yexiang Sun, Mengling Feng, Peng Shen, Zhiqin Jiang, Shenda Hong, Luxia Zhang
+- ``ESWA`` [Signal Quality Index for the fetal heart rates: Development and improvements for fetal monitoring](https://arxiv.org/abs/2501.18119) [![](https://img.shields.io/badge/FSQI-blue?logo=github)](https://github.com/jingyingma01/FSQI)<br>
+  Jingyu Wang‡, ***Jingying Ma***‡, Shenda Hong, Chi Zhang, Jianliu Wang, Linyan Zhang, Xinran Liu, Rui Bai, Xiaosong Dong, Guoli Liu, Fang Han
+- ``Nature Health`` [Artificial intelligence for public health can harness data for healthier populations](https://www.nature.com/articles/s44360-025-00005-w)
+  Mengling Feng, Swapnil Mishra, ***Jingying Ma***, Seth Flaxman, Samir Bhatt, Josip Car, Li Yang Hsu, Tien Yin Wong
+- ``Information Fusion`` [Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S1566253524005736)
+  Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, ***Jingying Ma***, Kai He, Zhen Peng, Erik Cambria, Mengling Feng
+- ``ACL 2025`` [Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2501.18119)&nbsp;[![](https://img.shields.io/badge/SSQR-blue?logo=github)](https://github.com/DeepReasoning/SSQR)<br>
+  Qika Lin, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, ***Jingying Ma***, Mengling Feng
+- ``npj Women's Health`` [Deep learning with information fusion and model interpretation for long-term prenatal fetal heart rate data](https://www.nature.com/articles/s44294-024-00033-z) [![](https://img.shields.io/badge/LARA--FHR-blue?logo=github)]([goodboy-hub/LARA-FHR](https://github.com/goodboy-hub/LARA-FHR))<br>
+  Zenghui Lin, Xintong Liu, Nan Wang, Ruichen Li, Qingao Liu, ***Jingying Ma***, Liwei Wang, Yan Wang, Shenda Hong
+- ``Preprint`` [Language modeling on tabular data: A survey of foundations, techniques and evolution](https://arxiv.org/abs/2408.10548)
+  Yucheng Ruan, Xiang Lan, ***Jingying Ma***, Yizhi Dong, Kai He, Mengling Feng
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08* President's Graduate Fellowship, National University of Singapore
+- *2023.06* Excellent Graduate of Beijing
+- *2022.05* Mathematical Contest in Modeling, Meritorious Winner
+- *2021.12* CASC Baosteel Scholarship (*Awarded to 2 undergraduate students university-wide*)
+- *2021.11* Gaojiaoshe Cup Contemporary Undergraduate Mathematical Contest in Modeling, National Second Prize
+- *2020.12* China National Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - now*, Ph.D., Saw Swee Hock School of Public Health, National University of Singapore, Singapore
+- *2020.09 - 2023.06*, B.S. (Minor), Mathematics and Applied Mathematics, Beihang University, China
+- *2019.09 - 2023.06*, B.E., Computer Science, Beihang University, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Experience
+- *2023.08 - 2024.07*, Research Assistant, Saw Swee Hock School of Public Health, National University of Singapore, supervised by  [Prof. Mornin Feng](https://www.mornin-feng.com/).
+- *2021.09 - 2023.07*, Research Intern, National Institute of Health Data Science, Peking University, supervised by [Prof. Shenda Hong](https://hsd1503.github.io/).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Academic Services
+
+- Conference Reviewer: ICML, KDD
+- Journal Reviewer: IEEE TIST
+
+# 🎓 Teaching
+
+- *2026.01 - 2026.05*, Teaching Assistant, SPH6004 Advanced Statistical Learning, National University of Singapore
+- *2022.08 - 2023.07*, Teaching Assistant, Computer Organization, Beihang University
+- *2020.07 - 2021.02*, Teaching Assistant, Advanced Language Program Design, Beihang University
+- *2020.01 - 2020.06*, Teaching Assistant, Mathematical analysis, Beihang University
