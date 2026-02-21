@@ -19,9 +19,9 @@ redirect_from:
 
 # 🐎 About Me
 
-I'm Ma Jingying (马婧颖), a second-year PhD student at National University of Singapore (NUS), supervised by [Prof. Mornin Feng](https://www.mornin-feng.com/). My current research focuses on medical time-series modeling and brain foundation models.
+I'm Jingying Ma (马婧颖), a second-year PhD student at National University of Singapore (NUS), supervised by [Prof. Mornin Feng](https://www.mornin-feng.com/). My current research focuses on medical time-series modeling and brain foundation models.
 
-I am always open to collaborations. If you share similar interests, please feel free to reach out via email.
+I am always open to collaborations. If you share similar interests, please feel free to reach out.
 
 # 📝 Publications 
 
