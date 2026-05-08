@@ -49,15 +49,20 @@ I am always open to collaborations. If you share similar interests, please feel 
 </div>
 </div>
 
-- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Structured Prototype-Guided Adaptation for EEG Foundation Models](https://arxiv.org/abs/2602.17251)<br>
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251)<br>
   ***Jingying Ma***‡, Feng Wu‡, Yucheng Xing, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Development and Validation of a Dynamic Kidney Failure Prediction Model based on Deep Learning: A Real-World Study with External Validation](https://arxiv.org/abs/2501.16388) [![](https://img.shields.io/badge/KFDeep-blue?logo=github)](https://github.com/PKUDigitalHealth/KFDeep)<br>
   ***Jingying Ma***‡, Jinwei Wang‡, Lanlan Lu, Yexiang Sun, Mengling Feng, Peng Shen, Zhiqin Jiang, Shenda Hong, Luxia Zhang
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ESWA</span> [Signal Quality Index for the fetal heart rates: Development and improvements for fetal monitoring](https://www.sciencedirect.com/science/article/pii/S095741742202262X) [![](https://img.shields.io/badge/FSQI-blue?logo=github)](https://github.com/jingyingma01/FSQI)<br>
   Jingyu Wang‡, ***Jingying Ma***‡, Shenda Hong, Chi Zhang, Jianliu Wang, Linyan Zhang, Xinran Liu, Rui Bai, Xiaosong Dong, Guoli Liu, Fang Han
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ICML 2026</span> [DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053) <br>
+  Yucheng Xing, Ling Huang, ***Jingying Ma***, Ruping Hong, Jiangdong Qiu, Pei Liu, Kai He, Huazhu Fu, Mengling Feng
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases](https://arxiv.org/abs/2603.20348) <br>
+  Jiaxing Xu, ***Jingying Ma***, Xin Lin, Yuxiao Liu, Kai He, Qika Lin, Yiping Ke, Yang Li, Dinggang Shen, Mengling Feng
+- Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Nature Health</span> [Artificial intelligence for public health can harness data for healthier populations](https://www.nature.com/articles/s44360-025-00005-w)<br>
   Mengling Feng, Swapnil Mishra, ***Jingying Ma***, Seth Flaxman, Samir Bhatt, Josip Car, Li Yang Hsu, Tien Yin Wong
-- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Information Fusion</span>[Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S1566253524005736)<br>
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Information Fusion</span> [Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S1566253524005736)<br>
   Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, ***Jingying Ma***, Kai He, Zhen Peng, Erik Cambria, Mengling Feng
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ACL 2025</span> [Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models](https://arxiv.org/abs/2501.18119)&nbsp;[![](https://img.shields.io/badge/SSQR-blue?logo=github)](https://github.com/DeepReasoning/SSQR)<br>
   Qika Lin, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, ***Jingying Ma***, Mengling Feng
@@ -86,7 +91,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 # 💬 Academic Services
 
-- Conference Reviewer: ICML, KDD
+- Conference Reviewer: ICML, NeurIPS, KDD
 - Journal Reviewer: IEEE TIST
 
 # 🎓 Teaching
