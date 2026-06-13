@@ -103,6 +103,6 @@ I am always open to collaborations. If you share similar interests, please feel 
 # 🎓 Teaching
 
 - *2026.01 - 2026.05*, Teaching Assistant, SPH6004 Advanced Statistical Learning, National University of Singapore
-- *2022.08 - 2023.07*, Teaching Assistant, Computer Organization, Beihang University
-- *2020.07 - 2021.02*, Teaching Assistant, Advanced Language Program Design, Beihang University
-- *2020.01 - 2020.06*, Teaching Assistant, Mathematical analysis, Beihang University
+- *2022.08 - 2023.01*, Teaching Assistant, Computer Organization, Beihang University
+- *2020.08 - 2021.01*, Teaching Assistant, Advanced Language Program Design, Beihang University
+- *2020.02 - 2020.07*, Teaching Assistant, Mathematical analysis, Beihang University
