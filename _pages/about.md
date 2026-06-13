@@ -29,8 +29,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CodeBrain.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110)\\
+[*CodeBrain*: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110)\\\
 ***Jingying Ma***‡, Feng Wu‡, Qika Lin, Yucheng Xing, Chenyu Liu, Ziyu Jia, Mengling Feng
 
 [![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)<br>
@@ -38,10 +37,18 @@ I am always open to collaborations. If you share similar interests, please feel 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Artificial Intelligence</div><img src='images/LogicSleep.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+*LogicSleep*: A Neurosymbolic-Guided Framework for Explainable and Personalized Sleep Staging (In Press)\\
+***Jingying Ma***, Qika Lin, Feng Wu, Yucheng Xing, Ziyu Jia, Mengling Feng
+[![](https://img.shields.io/badge/LogicSleep-blue?logo=github)](https://github.com/jingyingma01/LogicSleep))<br>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ST-USleepNet.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[ST-USleepNet: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging](https://www.ijcai.org/proceedings/2025/466)\\
+[*ST-USleepNet*: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging](https://www.ijcai.org/proceedings/2025/466)\\
 ***Jingying Ma***, Qika Lin, Ziyu Jia, Mengling Feng
 
 [![](https://img.shields.io/badge/ST--USleepNet-blue?logo=github)](https://github.com/jingyingma01/ST-USleepNet)<br>
@@ -55,11 +62,10 @@ I am always open to collaborations. If you share similar interests, please feel 
   ***Jingying Ma***‡, Jinwei Wang‡, Lanlan Lu, Yexiang Sun, Mengling Feng, Peng Shen, Zhiqin Jiang, Shenda Hong, Luxia Zhang
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ESWA</span> [Signal Quality Index for the fetal heart rates: Development and improvements for fetal monitoring](https://www.sciencedirect.com/science/article/pii/S095741742202262X) [![](https://img.shields.io/badge/FSQI-blue?logo=github)](https://github.com/jingyingma01/FSQI)<br>
   Jingyu Wang‡, ***Jingying Ma***‡, Shenda Hong, Chi Zhang, Jianliu Wang, Linyan Zhang, Xinran Liu, Rui Bai, Xiaosong Dong, Guoli Liu, Fang Han
-- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ICML 2026</span> [DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053) <br>
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ICML 2026</span> [DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053) [![](https://img.shields.io/badge/DPSurv-blue?logo=github)](https://github.com/YuchengXing99/DPsurv)<br>
   Yucheng Xing, Ling Huang, ***Jingying Ma***, Ruping Hong, Jiangdong Qiu, Pei Liu, Kai He, Huazhu Fu, Mengling Feng
-- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases](https://arxiv.org/abs/2603.20348) <br>
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases](https://arxiv.org/abs/2603.20348) [![](https://img.shields.io/badge/MV--BrainFM-blue?logo=github)](https://github.com/AngusMonroe/MV-BrainFM)<br>
   Jiaxing Xu, ***Jingying Ma***, Xin Lin, Yuxiao Liu, Kai He, Qika Lin, Yiping Ke, Yang Li, Dinggang Shen, Mengling Feng
-- Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Nature Health</span> [Artificial intelligence for public health can harness data for healthier populations](https://www.nature.com/articles/s44360-025-00005-w)<br>
   Mengling Feng, Swapnil Mishra, ***Jingying Ma***, Seth Flaxman, Samir Bhatt, Josip Car, Li Yang Hsu, Tien Yin Wong
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Information Fusion</span> [Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S1566253524005736)<br>
