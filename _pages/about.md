@@ -31,7 +31,6 @@ I am always open to collaborations. If you share similar interests, please feel 
 <div class='paper-box-text' markdown="1">
 [*CodeBrain*: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110)\\
 ***Jingying Ma***‡, Feng Wu‡, Qika Lin, Yucheng Xing, Chenyu Liu, Ziyu Jia, Mengling Feng
-
 [![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)<br>
 
 </div>
@@ -41,6 +40,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 <div class='paper-box-text' markdown="1">
 *LogicSleep*: A Neurosymbolic-Guided Framework for Explainable and Personalized Sleep Staging (In Press)\\
 ***Jingying Ma***, Qika Lin, Feng Wu, Yucheng Xing, Ziyu Jia, Mengling Feng
+
 [![](https://img.shields.io/badge/LogicSleep-blue?logo=github)](https://github.com/jingyingma01/LogicSleep)<br>
 
 </div>
