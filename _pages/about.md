@@ -56,8 +56,6 @@ I am always open to collaborations. If you share similar interests, please feel 
 </div>
 </div>
 
----
-
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251)<br>
   ***Jingying Ma***‡, Feng Wu‡, Yucheng Xing, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Development and Validation of a Dynamic Kidney Failure Prediction Model based on Deep Learning: A Real-World Study with External Validation](https://arxiv.org/abs/2501.16388) [![](https://img.shields.io/badge/KFDeep-blue?logo=github)](https://github.com/PKUDigitalHealth/KFDeep)<br>
@@ -67,7 +65,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Language modeling on tabular data: A survey of foundations, techniques and evolution](https://arxiv.org/abs/2408.10548)<br>
   Yucheng Ruan, Xiang Lan, ***Jingying Ma***, Yizhi Dong, Kai He, Mengling Feng
 
----
+<hr style="border:0;height:1px;background:linear-gradient(to right,transparent,#888,transparent);margin:28px 0;">
 
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ICML 2026</span> [EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](https://openreview.net/forum?id=BJ5rYj8O8W)<br>
   Ziyu Jia, Junyi Lin, Pu Wan, Jinxin Pi, ***Jingying Ma***, Peiliang Gong, Xinliang Zhou, Yi Ding, Chenyu Liu
