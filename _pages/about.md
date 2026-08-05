@@ -29,10 +29,8 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CodeBrain.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-[*CodeBrain*: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://openreview.net/forum?id=msJgEkjwh5)\\
+[*CodeBrain*: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model] (https://openreview.net/forum?id=msJgEkjwh5) [![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)<br>
 ***Jingying Ma***‡, Feng Wu‡, Qika Lin, Yucheng Xing, Chenyu Liu, Ziyu Jia, Mengling Feng
-
-[![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)<br>
 </div>
 </div>
 
