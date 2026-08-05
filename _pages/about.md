@@ -29,17 +29,17 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CodeBrain.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-[*CodeBrain*: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110)\\
+[*CodeBrain*: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://openreview.net/forum?id=msJgEkjwh5)\\
 ***Jingying Ma***‡, Feng Wu‡, Qika Lin, Yucheng Xing, Chenyu Liu, Ziyu Jia, Mengling Feng
+
 [![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)<br>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Artificial Intelligence 2026</div><img src='images/LogicSleep.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-*LogicSleep*: A Neurosymbolic-Guided Framework for Explainable and Personalized Sleep Staging (In Press)\\
+[*LogicSleep*: A Neurosymbolic-Guided Framework for Explainable and Personalized Sleep Staging](https://www.nature.com/articles/s44387-026-00132-z)\\
 ***Jingying Ma***, Qika Lin, Feng Wu, Yucheng Xing, Ziyu Jia, Mengling Feng
-
 
 [![](https://img.shields.io/badge/LogicSleep-blue?logo=github)](https://github.com/jingyingma01/LogicSleep)<br>
 
@@ -50,7 +50,6 @@ I am always open to collaborations. If you share similar interests, please feel 
 <div class='paper-box-text' markdown="1">
 [*ST-USleepNet*: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging](https://www.ijcai.org/proceedings/2025/466)\\
 ***Jingying Ma***, Qika Lin, Ziyu Jia, Mengling Feng
-
 [![](https://img.shields.io/badge/ST--USleepNet-blue?logo=github)](https://github.com/jingyingma01/ST-USleepNet)<br>
 
 </div>
