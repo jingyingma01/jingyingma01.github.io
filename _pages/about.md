@@ -36,19 +36,16 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">npj Artificial Intelligence 2026</div><img src='images/LogicSleep.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-[*LogicSleep*: A Neurosymbolic-Guided Framework for Explainable and Personalized Sleep Staging](https://www.nature.com/articles/s44387-026-00132-z)\\
+[*LogicSleep*: A Neurosymbolic-Guided Framework for Explainable and Personalized Sleep Staging](https://www.nature.com/articles/s44387-026-00132-z) [![](https://img.shields.io/badge/LogicSleep-blue?logo=github)](https://github.com/jingyingma01/LogicSleep)<br>
 ***Jingying Ma***, Qika Lin, Feng Wu, Yucheng Xing, Ziyu Jia, Mengling Feng
-
-[![](https://img.shields.io/badge/LogicSleep-blue?logo=github)](https://github.com/jingyingma01/LogicSleep)<br>
 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ST-USleepNet.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-[*ST-USleepNet*: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging](https://www.ijcai.org/proceedings/2025/466)\\
+[*ST-USleepNet*: A Spatial-Temporal Coupling Prominence Network for Multi-Channel Sleep Staging](https://www.ijcai.org/proceedings/2025/466) [![](https://img.shields.io/badge/ST--USleepNet-blue?logo=github)](https://github.com/jingyingma01/ST-USleepNet)<br>
 ***Jingying Ma***, Qika Lin, Ziyu Jia, Mengling Feng
-[![](https://img.shields.io/badge/ST--USleepNet-blue?logo=github)](https://github.com/jingyingma01/ST-USleepNet)<br>
 
 </div>
 </div>
