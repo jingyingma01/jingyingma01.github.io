@@ -64,6 +64,8 @@ I am always open to collaborations. If you share similar interests, please feel 
   Jiaxing Xu, ***Jingying Ma***, Xin Lin, Yuxiao Liu, Kai He, Qika Lin, Yiping Ke, Yang Li, Dinggang Shen, Mengling Feng
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Preprint</span> [Language modeling on tabular data: A survey of foundations, techniques and evolution](https://arxiv.org/abs/2408.10548)<br>
   Yucheng Ruan, Xiang Lan, ***Jingying Ma***, Yizhi Dong, Kai He, Mengling Feng
+- <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">npj Women's Health 2026</span> [AI-derived cardiotocography age as a digital biomarker for predicting future adverse pregnancy outcomes](https://www.nature.com/articles/s44294-026-00165-4) [![](https://img.shields.io/badge/CTGage-blue?logo=github)](https://github.com/PKUDigitalHealth/CTGage)<br>
+  Jinshuai Gu, Zenghui Lin, ***Jingying Ma***, Jingyu Wang, Linyan Zhang, Rui Bai, Zelin Tu, Youyou Jiang, Donglin Xie, Yuxi Zhou, Guoli Liu, Shenda Hong
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">Health Data Science 2026</span> [AutoFRAIL: using electronic medical records to identify frailty with machine learning in primary care](https://spj.science.org/doi/abs/10.34133/hds.0342)<br>
   Wenshan Qu, Wayne Han Lee, ***Jingying Ma***, John Tshon Yit Soong, Mengling Feng
 - <span style="background-color: darkblue; color: white; padding: 1px 4px; font-size: 85%;">ICML 2026</span> [EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models](https://openreview.net/forum?id=BJ5rYj8O8W)<br>
